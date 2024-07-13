@@ -66,8 +66,8 @@ button:active{
 
 @media (max-width: 765px) {
     .calculator{
-        width: 70%;
-        font-size: 70%;
+        width: 80%;
+        font-size: 80%;
     }
     
     button{
